@@ -23,7 +23,7 @@ Nested dynamic buttons are not supported in Glitch, so for certain items like po
 
 ### To load the sketchpalette
 1. Install the [sketch-palettes plugin](https://github.com/andrewfiorillo/sketch-palettes)
-2. Go to Plugins > Sketch Palettes > Load Palette... and select the `glitch-community.sketchpalette` file
+2. Go to Plugins > Sketch Palettes > Load Palette... and select the `glitch-colors.sketchpalette` file
 3. Load as a global preset to have the palette accessible in all your documents.
 
 ## Library Components
